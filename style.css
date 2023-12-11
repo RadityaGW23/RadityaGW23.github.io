@@ -4,6 +4,20 @@
   background-color: var(--bs-body-bg);
 }
 
-section {
+.pindah {
   padding-top: 4rem;
 }
+
+/* nav a {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+nav a:hover,
+nav a.active {
+  color: #0ef;
+} */
+
+/* section:nth-child(odd) {
+  background: #14b8a6;
+} */

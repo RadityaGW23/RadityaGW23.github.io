@@ -4,6 +4,10 @@
   background-color: var(--bs-body-bg);
 }
 
+.profil {
+  border-radius: 40%;
+}
+
 .pindah {
   padding-top: 4rem;
 }
